@@ -1,3 +1,28 @@
 a {
     padding-right: 10px;
 }
+
+.head {
+    background-color: goldenrod;
+}
+
+.left {
+    text-align: left;
+}
+
+td {
+    text-align: center;
+}
+
+.row_color {
+    background-color: beige;
+}
+
+table {
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+footer {
+    margin-top: 20px;
+}
